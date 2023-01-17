@@ -39,8 +39,8 @@
 }
 
 .todo-items-container {
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
 }
 
 .todo-item-container {
@@ -58,12 +58,12 @@
     padding: 15px;
 }
 
-.add-todo-button {
+.button {
     color: white;
     background-color: #4c63b6;
     font-family: "Roboto";
     font-size: 18px;
-    border-width: 0px;
+    border-width: 0;
     border-radius: 4px;
     margin-top: 20px;
     margin-bottom: 50px;
@@ -97,7 +97,7 @@
     font-size: 16px;
     font-weight: 400;
     width: 82%;
-    margin: 0px;
+    margin: 0;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 20px;
